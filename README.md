@@ -4,8 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatSnoopy&hide_progress=true&theme=radical)
 
-<img src="https://github.com/notKimu/notKimu/blob/main/kimu_github.png?raw=true" width="100%">
-
 ## Skills
 
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
