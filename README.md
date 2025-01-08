@@ -9,9 +9,9 @@
 
 
 
-* 👩‍💻 `My name is`: **Viviana**,
-* ⏳ `I'm`: **23 years old**,
-* ❤️ `I love`: **Read and learn**  ,
+* 👩‍💻 `My name is`: **Viviana**
+* ⏳ `I'm`: **23 years old**
+* ❤️ `I love`: **Read and learn** 
 * 💻 `Favorite lang`: **php & python**  
 
 
