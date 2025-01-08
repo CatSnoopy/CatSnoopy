@@ -7,14 +7,14 @@
   </ul>
 </div>
 
-{  
+
 
 * 👩‍💻 `My name is`: **Viviana**,
 * ⏳ `I'm`: **23 years old**,
 * ❤️ `I love`: **Read and learn**  ,
 * 💻 `Favorite lang`: **php & python**  
 
-}
+
 
 <!--- stats & Trophy (start) -->
 <p align="center">
